@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\obj\Debug\ThirdConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\obj\Debug\ThirdConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\bin\Debug\ThirdConsoleApp.exe.config
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\bin\Debug\ThirdConsoleApp.exe
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\bin\Debug\ThirdConsoleApp.pdb
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\obj\Debug\ThirdConsoleApp.exe
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdConsoleApp\obj\Debug\ThirdConsoleApp.pdb
