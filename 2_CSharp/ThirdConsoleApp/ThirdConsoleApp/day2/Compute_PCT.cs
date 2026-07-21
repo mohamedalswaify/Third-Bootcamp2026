@@ -9,7 +9,7 @@ namespace ThirdConsoleApp.day2
     internal class Compute_PCT
     {
 
-        static void Main(string[] args)
+        static void Mainn(string[] args)
         {
             //Compute_PCT
             //student_name ="Ali";

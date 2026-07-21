@@ -41,10 +41,6 @@ namespace ThirdConsoleApp.day2
             Console.WriteLine("BMI:" + BMI);
 
 
-            //BMI>=30  Obese
-            //BMI>=18   <=25  Normal Weight
-            //BMI<18  Underweight
-            //BMI>=25  <=30  Overweight
 
 
 
