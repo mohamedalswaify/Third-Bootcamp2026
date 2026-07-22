@@ -8,7 +8,7 @@ namespace ThirdConsoleApp.day3
 {
     internal class Check_day_v2
     {
-        static void Main(string[] args)
+        static void Mainn(string[] args)
         {
             //Check_day_v2
             //Enter Your Day: 1

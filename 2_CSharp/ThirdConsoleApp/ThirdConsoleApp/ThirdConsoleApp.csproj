@@ -53,10 +53,15 @@
     <Compile Include="day3\Check_day_v2.cs" />
     <Compile Include="day3\Compute_BMI_V2.cs" />
     <Compile Include="day3\Login.cs" />
+    <Compile Include="day4\List.cs" />
+    <Compile Include="day4\Loops.cs" />
+    <Compile Include="day4\Qiuz_V2.cs" />
+    <Compile Include="day4\Quiz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
