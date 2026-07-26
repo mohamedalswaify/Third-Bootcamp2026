@@ -8,7 +8,7 @@ namespace ThirdConsoleApp.day4
 {
     internal class List
     {
-        static void Main()
+        static void Mainn()
         {
 
             //int[] numbers= { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
@@ -64,7 +64,6 @@ namespace ThirdConsoleApp.day4
             {
                 Console.WriteLine(item);
             }
-
 
 
 

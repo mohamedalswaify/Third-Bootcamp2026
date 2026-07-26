@@ -43,25 +43,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="day1\Program.cs" />
-    <Compile Include="day2\Compute_BMI.cs" />
-    <Compile Include="day2\Compute_PCT.cs" />
-    <Compile Include="day2\Compute_Salary.cs" />
-    <Compile Include="day2\Data_Type.cs" />
-    <Compile Include="day3\Calac.cs" />
-    <Compile Include="day3\Check_day.cs" />
-    <Compile Include="day3\Check_day_v2.cs" />
-    <Compile Include="day3\Compute_BMI_V2.cs" />
-    <Compile Include="day3\Login.cs" />
-    <Compile Include="day4\List.cs" />
-    <Compile Include="day4\Loops.cs" />
-    <Compile Include="day4\Qiuz_V2.cs" />
-    <Compile Include="day4\Quiz.cs" />
+    <Compile Include="level1\day1\Program.cs" />
+    <Compile Include="level1\day2\Compute_BMI.cs" />
+    <Compile Include="level1\day2\Compute_PCT.cs" />
+    <Compile Include="level1\day2\Compute_Salary.cs" />
+    <Compile Include="level1\day2\Data_Type.cs" />
+    <Compile Include="level1\day3\Calac.cs" />
+    <Compile Include="level1\day3\Check_day.cs" />
+    <Compile Include="level1\day3\Check_day_v2.cs" />
+    <Compile Include="level1\day3\Compute_BMI_V2.cs" />
+    <Compile Include="level1\day3\Login.cs" />
+    <Compile Include="level1\day4\List.cs" />
+    <Compile Include="level1\day4\Loops.cs" />
+    <Compile Include="level1\day4\Qiuz_V2.cs" />
+    <Compile Include="level1\day4\Quiz.cs" />
+    <Compile Include="level2\day1\Calling.cs" />
+    <Compile Include="level2\day1\Functions_With_Prams\Calling_Functions.cs" />
+    <Compile Include="level2\day1\Functions_With_Prams\Functions.cs" />
+    <Compile Include="level2\day1\Funtions_No_Prams\Methods.cs" />
+    <Compile Include="level2\day1\Funtions_No_Prams\Task_Compute_Pct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="level2\day1\task\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
