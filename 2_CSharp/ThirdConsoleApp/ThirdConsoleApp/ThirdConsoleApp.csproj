@@ -62,6 +62,8 @@
     <Compile Include="level2\day1\Functions_With_Prams\Functions.cs" />
     <Compile Include="level2\day1\Funtions_No_Prams\Methods.cs" />
     <Compile Include="level2\day1\Funtions_No_Prams\Task_Compute_Pct.cs" />
+    <Compile Include="level2\day2\Calling_Fun.cs" />
+    <Compile Include="level2\day2\Fun.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

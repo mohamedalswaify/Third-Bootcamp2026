@@ -9,7 +9,7 @@ namespace ThirdConsoleApp.level2.day1.Functions_With_Prams
     internal class Calling_Functions
     {
 
-        static void Main()
+        static void Mainn()
         {
 
             Functions functions = new Functions();
