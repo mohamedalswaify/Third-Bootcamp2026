@@ -9,7 +9,7 @@ namespace ThirdConsoleApp.level2.day2.Functions_With_Prams
     internal class Calling_Fun
     {
 
-        static void Main()
+        static void Mainn()
         {
             Fun fun = new Fun();
 
