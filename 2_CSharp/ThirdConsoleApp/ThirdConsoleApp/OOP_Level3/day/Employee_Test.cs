@@ -10,16 +10,19 @@ namespace ThirdConsoleApp.OOP_Level3.day
     {
 
         //Patient  Pstient_Test
-        static void Mainn()
+        static void Main()
         {
+          
 
-            Employee e1 = new Employee("Mohamed",1200);
+            Employee e1 = new Employee("Mohamed",-1200);
+
+           // e1.set_salary(-500);
 
             double annual = e1.Get_Annaul();
             string level = e1.Get_Level(annual);
 
                 Console.WriteLine(e1.Name);
-                Console.WriteLine(e1.Salary);
+                Console.WriteLine(e1.get_salary());
                 Console.WriteLine(annual);
                 Console.WriteLine(level);
 

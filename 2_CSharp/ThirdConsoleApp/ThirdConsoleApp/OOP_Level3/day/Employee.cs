@@ -18,15 +18,35 @@ namespace ThirdConsoleApp.OOP_Level3.day
 
 
         public string Name;
-        public double Salary;
+        private double Salary;
 
         //ctor
         public Employee(string name ,double salary)
         {
             Name = name;
-            Salary = salary;
-            
+          //  Salary = salary;
+            set_salary(salary);
         }
+
+        public double get_salary()
+        {
+            return Salary;
+        }
+
+        public void set_salary(double salary)
+        {
+            if(salary >= 0)
+            {
+                Salary = salary;
+            }
+            else
+            {
+                Console.WriteLine("Invalid Salary");
+            }
+
+           
+        }
+
 
 
         public double Get_Annaul()

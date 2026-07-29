@@ -64,6 +64,8 @@
     <Compile Include="level2\day1\Funtions_No_Prams\Task_Compute_Pct.cs" />
     <Compile Include="level2\day2\Calling_Fun.cs" />
     <Compile Include="level2\day2\Fun.cs" />
+    <Compile Include="OOP_Level3\day2\Patient.cs" />
+    <Compile Include="OOP_Level3\day2\Patient_test.cs" />
     <Compile Include="OOP_Level3\day\Employee.cs" />
     <Compile Include="OOP_Level3\day\Employee_Test.cs" />
     <Compile Include="OOP_Level3\day\Room_Test.cs" />
