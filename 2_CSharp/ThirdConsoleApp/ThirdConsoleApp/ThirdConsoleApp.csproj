@@ -66,12 +66,18 @@
     <Compile Include="level2\day2\Fun.cs" />
     <Compile Include="OOP_Level3\day2\Patient.cs" />
     <Compile Include="OOP_Level3\day2\Patient_test.cs" />
+    <Compile Include="OOP_Level3\day3\Employee.cs" />
+    <Compile Include="OOP_Level3\day3\EmployeeBase.cs" />
+    <Compile Include="OOP_Level3\day3\EmployeeHour.cs" />
+    <Compile Include="OOP_Level3\day3\EmployeeTest.cs" />
+    <Compile Include="OOP_Level3\day3\Task_Tomworrow.cs" />
     <Compile Include="OOP_Level3\day\Employee.cs" />
     <Compile Include="OOP_Level3\day\Employee_Test.cs" />
     <Compile Include="OOP_Level3\day\Room_Test.cs" />
     <Compile Include="OOP_Level3\day\Room.cs" />
     <Compile Include="OOP_Level3\day\Student.cs" />
     <Compile Include="OOP_Level3\day\Student_Test.cs" />
+    <Compile Include="OOP_Level3\day3\Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

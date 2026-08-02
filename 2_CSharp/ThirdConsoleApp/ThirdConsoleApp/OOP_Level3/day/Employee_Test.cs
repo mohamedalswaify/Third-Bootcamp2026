@@ -10,7 +10,7 @@ namespace ThirdConsoleApp.OOP_Level3.day
     {
 
         //Patient  Pstient_Test
-        static void Main()
+        static void Mainn()
         {
           
 

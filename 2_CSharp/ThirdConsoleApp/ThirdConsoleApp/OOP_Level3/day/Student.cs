@@ -9,8 +9,50 @@ namespace ThirdConsoleApp.OOP_Level3.day
     public class Student
     {
         public string Student_name;
-        private double Mark;
-        private int Full_mark;
+        private double _Mark;
+
+        public double Mark
+        {
+            get
+            {
+                return _Mark;
+            }
+            set
+            {
+                if (value >= 0)
+                {
+                    _Mark = value;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Mark");
+                }
+            }
+        }
+
+
+
+
+        private int _Full_mark;
+        public int Full_mark
+        {
+            get
+            {
+                return _Full_mark;
+            }
+            set
+            {
+                if (value >= 0)
+                {
+                    _Full_mark = value;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Full_mark");
+                }
+            }
+        }
+
 
         public Student(string student_name,double mark, int full_mark)
         {
@@ -19,49 +61,49 @@ namespace ThirdConsoleApp.OOP_Level3.day
             Full_mark = full_mark;
         }
 
-        public double get_Full_mark()
-        {
-            return Full_mark;
-        }
+        //public double get_Full_mark()
+        //{
+        //    return Full_mark;
+        //}
 
-        public void set_Full_mark(int full_mark)
-        {
-            if (full_mark >= 0)
-            {
-                Full_mark = full_mark;
-            }
-            else
-            {
-                Console.WriteLine("Invalid Full_mark");
-            }
+        //public void set_Full_mark(int full_mark)
+        //{
+        //    if (full_mark >= 0)
+        //    {
+        //        Full_mark = full_mark;
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Invalid Full_mark");
+        //    }
 
-        }
+        //}
 
 
-        public double get_Mark()
-        {
-            return Mark;
-        }
+        //public double get_Mark()
+        //{
+        //    return Mark;
+        //}
 
-        public void set_Mark(double mark)
-        {
-            if (mark >= 0)
-            {
-                Mark = mark;
-            }
-            else
-            {
-                Console.WriteLine("Invalid Mark");
-            }
+        //public void set_Mark(double mark)
+        //{
+        //    if (mark >= 0)
+        //    {
+        //        Mark = mark;
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Invalid Mark");
+        //    }
 
-        }
+        //}
 
 
 
 
         public double Get_Pct() {
 
-            double pct = (Mark / Full_mark) * 100;
+            double pct = (_Mark / _Full_mark) * 100;
             return pct;
         }
 

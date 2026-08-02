@@ -12,14 +12,14 @@ namespace ThirdConsoleApp.OOP_Level3.day2
         {
             Patient pat = new Patient("Rayan", 90, 166);
 
-           // pat.Name = "";
+          pat.Weight = -90; 
             double BMI = pat.Get_BMI();
             string status = pat.Get_Status(BMI);
 
 
             Console.WriteLine(pat.Name);
-            Console.WriteLine(pat.get_Weight());
-            Console.WriteLine(pat.get_Height());
+            Console.WriteLine(pat.Weight);
+            Console.WriteLine(pat.Height);
             Console.WriteLine(BMI);
             Console.WriteLine(status);
 

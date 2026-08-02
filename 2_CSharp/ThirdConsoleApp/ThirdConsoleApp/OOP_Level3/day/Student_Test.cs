@@ -17,8 +17,8 @@ namespace ThirdConsoleApp.OOP_Level3.day
             double pct = s1.Get_Pct();
             string grade = s1.Get_Grade(pct);
             Console.WriteLine(s1.Student_name);
-            Console.WriteLine(s1.get_Mark());
-            Console.WriteLine(s1.get_Full_mark());
+            Console.WriteLine(s1.Mark);
+            Console.WriteLine(s1.Full_mark);
             Console.WriteLine(pct);
             Console.WriteLine(grade);
 
