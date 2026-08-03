@@ -71,6 +71,10 @@
     <Compile Include="OOP_Level3\day3\EmployeeHour.cs" />
     <Compile Include="OOP_Level3\day3\EmployeeTest.cs" />
     <Compile Include="OOP_Level3\day3\Task_Tomworrow.cs" />
+    <Compile Include="OOP_Level3\day4\Employee.cs" />
+    <Compile Include="OOP_Level3\day4\EmployeeBase.cs" />
+    <Compile Include="OOP_Level3\day4\EmployeeHour.cs" />
+    <Compile Include="OOP_Level3\day4\EmployeeTest.cs" />
     <Compile Include="OOP_Level3\day\Employee.cs" />
     <Compile Include="OOP_Level3\day\Employee_Test.cs" />
     <Compile Include="OOP_Level3\day\Room_Test.cs" />
