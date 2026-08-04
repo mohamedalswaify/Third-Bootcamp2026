@@ -24,8 +24,12 @@ namespace ThirdConsoleApp.OOP_Level3.day5.accounts
                 {
                     _Balance = value;
                 }
-                Console.WriteLine("Invalied balance");
+                else
+                {
+                    Console.WriteLine("Invalied balance");
+                }
             }
+                
         }
         public BankAccount(string account_number, string owner_name, double balance)
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ThirdConsoleApp.OOP_Level3.day5.cars
 {
-    public abstract class Vehicle
+    public abstract class Vehicle  : IVehicle
     {
         public string Brand { get; set; }
         public string Model { get; set; }
