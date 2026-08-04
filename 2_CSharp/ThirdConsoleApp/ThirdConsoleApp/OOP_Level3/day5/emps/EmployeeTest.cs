@@ -8,7 +8,7 @@ namespace ThirdConsoleApp.OOP_Level3.day5
 {
     internal class EmployeeTest
     {
-        static void Main()
+        static void Mainn()
         {
             //  Employee e1 = new Employee("John", 30, 1000);
             //EmployeeBase e2 = new EmployeeBase("Ali", 28, 1000, 500);

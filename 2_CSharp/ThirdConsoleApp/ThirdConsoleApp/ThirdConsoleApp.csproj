@@ -75,6 +75,10 @@
     <Compile Include="OOP_Level3\day4\EmployeeBase.cs" />
     <Compile Include="OOP_Level3\day4\EmployeeHour.cs" />
     <Compile Include="OOP_Level3\day4\EmployeeTest.cs" />
+    <Compile Include="OOP_Level3\day5\Animals\Animal.cs" />
+    <Compile Include="OOP_Level3\day5\Animals\Animal_Test.cs" />
+    <Compile Include="OOP_Level3\day5\Animals\Cat.cs" />
+    <Compile Include="OOP_Level3\day5\Animals\Dog.cs" />
     <Compile Include="OOP_Level3\day5\cars\Car.cs" />
     <Compile Include="OOP_Level3\day5\cars\Cars_test.cs" />
     <Compile Include="OOP_Level3\day5\cars\Motorcycle.cs" />
