@@ -8,7 +8,7 @@ namespace ThirdConsoleApp.OOP_Level3.day5.cars
 {
     internal class Cars_test
     {
-        static void Main()
+        static void Mainn()
         {
 
             //Vehicle v1 = new Vehicle("Ferrari", "2025", 200000);

@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\bin\Debug\ThirdWindowsFormsApp.exe.config
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\bin\Debug\ThirdWindowsFormsApp.exe
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\bin\Debug\ThirdWindowsFormsApp.pdb
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.exe
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.pdb
+C:\Users\LENOVO\Desktop\Third Bootcamp\2_CSharp\ThirdConsoleApp\ThirdWindowsFormsApp\obj\Debug\ThirdWindowsFormsApp.Form1.resources
