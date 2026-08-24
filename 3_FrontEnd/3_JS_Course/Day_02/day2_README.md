@@ -37,17 +37,6 @@ Below is a structured list of all the practical files included in Day 2 with a s
 - **Topic:** Fetching user data from public API and rendering it as card elements.
 - **You will learn:** Working with APIs + DOM insertion inside a section using real remote data.
 
-
-**Skills Gained:**
-- Use of `array.filter()` or manual loops to show data based on user interaction
-- Template rendering with `replace`
-- Handling button clicks with `onclick`
-- Working with structured JavaScript objects
-
-**Files Used:**
-- `our-menu.html` – HTML structure for the menu page
-- `our-menu.css` – Styling for layout, cards, and filter buttons
-- `our-menu.js` – Script that loops over menu items and filters them dynamically
 ---
 
 
