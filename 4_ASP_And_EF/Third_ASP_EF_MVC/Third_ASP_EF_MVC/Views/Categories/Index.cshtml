@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "Category Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome Category</h1>
+</div>
+
+
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Name
+                </th>
+               
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var name in Model)
+            {
+
+                <tr>
+                    <td>
+                        @name.Id
+                    </td>
+                    <td>
+                        @name.Name
+                    </td>
+                  
+                </tr>
+            }
+
+
+        </tbody>
+
+    </table>
+
+
+</div>
+

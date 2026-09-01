@@ -12,6 +12,7 @@ namespace Third_ASP_EF_MVC.Data
         }
 
         public DbSet<Employee> Employees    { get; set; }
+        public DbSet<Category> Categories    { get; set; }
 
 
 
