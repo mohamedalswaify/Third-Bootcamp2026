@@ -23,5 +23,24 @@ namespace Third_ASP_EF_MVC.Controllers
             return View(names);
         }
 
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Create(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Categories.Add(category);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
     }
 }
