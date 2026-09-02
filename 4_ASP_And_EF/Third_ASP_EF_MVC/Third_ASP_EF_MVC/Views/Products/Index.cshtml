@@ -1,18 +1,18 @@
-﻿@model IEnumerable<Category>
+﻿@model IEnumerable<Product>
 
 @{
-    ViewData["Title"] = "Category Page";
+    ViewData["Title"] = "Product Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome Category</h1>
+    <h1 class="display-4">Welcome Product   </h1>
 </div>
 
 
 <div class="container">
     <div class="row text-end">
         <div class="col-md-12">
-            <a asp-action="Create" class="btn btn-primary">Create New Category</a>
+            <a asp-action="Create" class="btn btn-primary">Create New Product</a>
         </div>
     </div>
     <table class="table table-striped">
@@ -24,9 +24,19 @@
                 <th>
                     Name
                 </th>
-                
+                <th>
+                    Price
+                </th>
+                <th>
+                    Description
+                </th>
+             
+                <th>
+                    Category
+                </th>
+
                 <th>Actions</th>
-               
+
             </tr>
         </thead>
 
@@ -41,12 +51,21 @@
                     <td>
                         @name.Name
                     </td>
-                  
+                    <td>
+                        @name.Price
+                    </td>
+                    <td>
+                        @name.Description
+                    </td>
+                    <td>
+                        @name.Category?.Name
+                    </td>
+
                     <td>
                         <a asp-action="Edit" asp-route-Id="@name.Id" class="btn btn-warning">Edit</a>
                         <a asp-action="Delete" asp-route-Id="@name.Id" class="btn btn-danger">Delete</a>
                     </td>
-                  
+
                 </tr>
             }
 
