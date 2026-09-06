@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Third_ASP_EF_MVC.Data;
 using Third_ASP_EF_MVC.Models;
@@ -28,6 +29,7 @@ namespace Third_ASP_EF_MVC.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+            SelectListForCategories();
             return View();
         }
 
@@ -44,6 +46,14 @@ namespace Third_ASP_EF_MVC.Controllers
             return View();
         }
 
+        private void SelectListForCategories()
+        {
+            IEnumerable<Category> categories = _db.Categories.ToList();
+            SelectList categorySelectList = new SelectList(categories, "Id", "Name");
+            ViewBag.Categories = categorySelectList;
+        }
+
+
         [HttpGet]
         public IActionResult Edit(int Id)
         {
@@ -52,6 +62,8 @@ namespace Third_ASP_EF_MVC.Controllers
             {
                 return NotFound();
             }
+            SelectListForCategories();
+
             return View(product);
         }
 

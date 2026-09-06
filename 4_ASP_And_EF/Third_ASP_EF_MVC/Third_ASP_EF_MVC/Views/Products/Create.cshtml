@@ -1,4 +1,5 @@
-﻿@model Product
+﻿
+@model Product
 @{
     ViewData["Title"] = "Create Product";
 }
@@ -28,6 +29,13 @@
             <input asp-for="Description" class="form-control" />
             </div>
 
+        <div class="form-group">
+            <label class="control-label">Category</label>
+            <select class="form-control" asp-for="CategoryId" asp-items="ViewBag.Categories">
+                <option value="">Select Category</option>
+           
+            </select>
+        </div>
 
 
         <div class="form-group">
