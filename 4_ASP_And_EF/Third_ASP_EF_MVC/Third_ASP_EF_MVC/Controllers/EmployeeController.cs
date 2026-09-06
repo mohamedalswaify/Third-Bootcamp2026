@@ -27,6 +27,69 @@ namespace Third_ASP_EF_MVC.Controllers
         }
 
 
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Create(Employee employee)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Employees.Add(employee);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(employee);
+        }
+
+        public IActionResult Edit(int id)
+        {
+            var employee = _db.Employees.FirstOrDefault(e => e.Id == id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            return View(employee);
+        }
+
+
+        [HttpPost]
+        public IActionResult Edit(Employee employee)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Employees.Update(employee);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(employee);
+        }
+
+
+
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            if (ModelState.IsValid)
+            {
+                var employee = _db.Employees.FirstOrDefault(e => e.Id == id);
+                if (employee == null)
+                {
+                    return NotFound();
+                }
+                _db.Employees.Remove(employee);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+
+
 
         public IActionResult IndexApi()
         {

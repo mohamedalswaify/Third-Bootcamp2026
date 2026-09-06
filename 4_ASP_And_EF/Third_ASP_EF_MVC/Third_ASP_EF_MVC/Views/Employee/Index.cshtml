@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Employee Page";
+    int count = 1;
 }
 
 <div class="text-center">
@@ -10,9 +11,13 @@
 
 
    <div class="container">
+       <a asp-action="Create" class="btn btn-primary mb-3">Create New Employee</a>  
        <table class="table table-striped">
            <thead>
                <tr>
+                <th>
+                    #
+                </th>
                    <th>
                        ID
                    </th>
@@ -22,15 +27,24 @@
                 <th>
                     Description
                 </th>
+                <th>Actions</th>
                 
                </tr>
            </thead>
 
            <tbody>
+              
             @foreach(var name in Model)
             {
                 
                 <tr>
+                    <td>
+                        @count
+                        @{
+                            count++;
+                        }
+                    </td>
+
                     <td>
                         @name.Id
                     </td>
@@ -41,6 +55,13 @@
                         @name.Description
                     </td>
 
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@name.Id" class="btn btn-warning">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@name.Id" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                       
+                    </td>
                   
                 </tr>
             }
