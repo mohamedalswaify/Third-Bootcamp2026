@@ -1,0 +1,72 @@
+﻿@model IEnumerable<User>
+
+@{
+    ViewData["Title"] = "User Page";
+    int count = 1;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome User</h1>
+</div>
+
+
+<div class="container">
+    <a asp-action="Create" class="btn btn-primary mb-3">Create New User</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    #
+                </th>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Name
+                </th>
+               
+                <th>Actions</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var name in Model)
+            {
+
+                <tr>
+                    <td>
+                        @count
+                        @{
+                            count++;
+                        }
+                    </td>
+
+                    <td>
+                        @name.Id
+                    </td>
+                    <td>
+                        @name.Name
+                    </td>
+               
+
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@name.Id" class="btn btn-warning">Edit</a>
+                        <form asp-action="DeleteConfirmed" asp-route-id="@name.Id" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+
+                    </td>
+
+                </tr>
+            }
+
+
+        </tbody>
+
+    </table>
+
+
+</div>
+
