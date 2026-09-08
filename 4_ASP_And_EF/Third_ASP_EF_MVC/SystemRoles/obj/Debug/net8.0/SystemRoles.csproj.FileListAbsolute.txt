@@ -146,3 +146,4 @@ C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\ref\SystemRoles.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\BCrypt.Net-Core.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css

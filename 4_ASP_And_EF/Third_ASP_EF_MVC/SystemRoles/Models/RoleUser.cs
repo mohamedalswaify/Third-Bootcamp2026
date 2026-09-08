@@ -2,6 +2,7 @@
 
 namespace SystemRoles.Models
 {
+
     public class RoleUser
     {
         [ForeignKey("Roles")]
@@ -12,4 +13,7 @@ namespace SystemRoles.Models
         public int UserId { get; set; }
         public User Users { get; set; }
     }
+
+
+
 }

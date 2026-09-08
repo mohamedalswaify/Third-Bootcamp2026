@@ -100,6 +100,21 @@ namespace SystemRoles.Migrations
                     b.ToTable("Roles");
                 });
 
+            modelBuilder.Entity("SystemRoles.Models.RoleUser", b =>
+                {
+                    b.Property<int>("RoleId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("RoleId", "UserId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("RoleUsers");
+                });
+
             modelBuilder.Entity("SystemRoles.Models.User", b =>
                 {
                     b.Property<int>("Id")
@@ -179,6 +194,25 @@ namespace SystemRoles.Migrations
                     b.Navigation("Permissions");
 
                     b.Navigation("Roles");
+                });
+
+            modelBuilder.Entity("SystemRoles.Models.RoleUser", b =>
+                {
+                    b.HasOne("SystemRoles.Models.Role", "Roles")
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SystemRoles.Models.User", "Users")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Roles");
+
+                    b.Navigation("Users");
                 });
 #pragma warning restore 612, 618
         }

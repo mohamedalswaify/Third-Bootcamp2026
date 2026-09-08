@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SystemRoles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef16786106b344183b9e6a9263fe0567419f5103")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+757ef8f50c294293593b6e65019fa787682e7347")]
 [assembly: System.Reflection.AssemblyProductAttribute("SystemRoles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SystemRoles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
