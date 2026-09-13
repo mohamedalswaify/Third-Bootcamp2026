@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using SystemRoles.Models;
 
-namespace SystemRoles.Models
+namespace SystemRoles.Dtos.UsersDtos
 {
-    public class User
+    public class CreateUserDto
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
 
@@ -13,9 +13,10 @@ namespace SystemRoles.Models
 
         public string Username { get; set; }
 
-        public string? ImageURL { get; set; }
+        public IFormFile? image { get; set; }
+      
 
 
-        public ICollection<Role> Roles { get; set; } = new List<Role>();
+      
     }
 }

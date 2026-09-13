@@ -1,4 +1,5 @@
-﻿@model User
+﻿@using SystemRoles.Dtos.UsersDtos
+@model CreateUserDto
 @{
     ViewData["Title"] = "Create User";
 }
@@ -10,7 +11,7 @@
 
 <div class="container mt-3">
 
-    <form asp-action="Create" method="post">
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
         <div class="form-group">
             <label class="control-label">Name</label>
             <input asp-for="Name" class="form-control" />
@@ -29,6 +30,11 @@
         <div class="form-group">
             <label class="control-label">Username</label>
             <input asp-for="Username" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">image</label>
+            <input type="file" asp-for="image" class="form-control" />
         </div>
 
   

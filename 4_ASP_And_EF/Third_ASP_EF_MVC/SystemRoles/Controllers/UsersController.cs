@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SystemRoles.Data;
 using SystemRoles.Dtos;
+using SystemRoles.Dtos.UsersDtos;
 using SystemRoles.Models;
 
 namespace SystemRoles.Controllers
@@ -13,9 +14,53 @@ namespace SystemRoles.Controllers
         {
             _db = db;
         }
+
+
+
+        private string UploadImage(IFormFile image)
+        {
+            string fileName = Guid.NewGuid().ToString()
+                              + Path.GetExtension(image.FileName);
+
+            string folderPath = Path.Combine(
+                Directory.GetCurrentDirectory(),
+                "wwwroot",
+                "images",
+                "Users"
+            );
+
+            // Create folder if it doesn't exist
+            Directory.CreateDirectory(folderPath);
+
+            string filePath = Path.Combine(
+                folderPath,
+                fileName
+            );
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                image.CopyTo(stream);
+            }
+
+            return "/images/Users/" + fileName;
+        }
+
+
+
+
+
+
+
+
+
         public IActionResult Index()
         {
-            IEnumerable<User> users = _db.Users.ToList();
+            IEnumerable<UserDto> users = _db.Users.Select(e => new UserDto
+            {
+                Id = e.Id,
+                Name = e.Name,
+                ImageURL =e.ImageURL,
+            }).ToList();
             return View(users);
         }
 
@@ -26,18 +71,35 @@ namespace SystemRoles.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(User user)
+        public IActionResult Create(CreateUserDto userDto)
         {
+           
+
+          
+
             if (ModelState.IsValid)
             {
-                // Hash the password before saving it to the database
-                user.HashPassword = BCrypt.Net.BCrypt.HashPassword(user.Password);
+                var user = new User
+                {
+                    Name = userDto.Name,
+                    Email = userDto.Email,
+                    Password = userDto.Password,
+                    Username = userDto.Username,
+                    HashPassword = BCrypt.Net.BCrypt.HashPassword(userDto.Password)
+                };
+
+                if (userDto.image != null)
+                {
+                    user.ImageURL = UploadImage(userDto.image);
+                }
+
+             
 
                 _db.Users.Add(user);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(user);
+            return View(userDto);
         }
 
 
@@ -52,15 +114,29 @@ namespace SystemRoles.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(User user)
+        public IActionResult Edit(UpdateUserDto  userDto)
         {
             if (ModelState.IsValid)
             {
+                var user = new User
+                {
+                    Name = userDto.Name,
+                    Email = userDto.Email,
+                    Password = userDto.Password,
+                    Username = userDto.Username,
+                    HashPassword = BCrypt.Net.BCrypt.HashPassword(userDto.Password)
+                };
+
+                if (userDto.image != null)
+                {
+                    user.ImageURL = UploadImage(userDto.image);
+                }
+
                 _db.Users.Update(user);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(user);
+            return View(userDto);
         }
 
         [HttpPost]
