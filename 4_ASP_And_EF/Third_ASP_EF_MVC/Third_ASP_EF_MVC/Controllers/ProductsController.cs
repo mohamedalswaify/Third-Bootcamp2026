@@ -81,9 +81,9 @@ namespace Third_ASP_EF_MVC.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delete(int Id)
+        public IActionResult Delete( int productId)
         {
-            var product = _db.Products.Find(Id);
+            var product = _db.Products.Find(productId);
             if (product  == null)
             {
                 return NotFound();
@@ -93,8 +93,9 @@ namespace Third_ASP_EF_MVC.Controllers
 
 
         [HttpPost]
-        public IActionResult Delete(Product product)
+        public IActionResult DeleteConfirm([FromQuery]  int productId)
         {
+            var product = _db.Products.Find(productId);
             if (ModelState.IsValid)
             {
                 _db.Products.Remove(product);

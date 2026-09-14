@@ -17,9 +17,9 @@ namespace SystemRoles.Controllers
 
 
 
-        private string UploadImage(IFormFile image)
+        private string UploadImage(IFormFile image, string name)
         {
-            string fileName = Guid.NewGuid().ToString()
+            string fileName = name + "_" + Guid.NewGuid().ToString()
                               + Path.GetExtension(image.FileName);
 
             string folderPath = Path.Combine(
@@ -58,8 +58,9 @@ namespace SystemRoles.Controllers
             IEnumerable<UserDto> users = _db.Users.Select(e => new UserDto
             {
                 Id = e.Id,
+                UID = e.UID,
                 Name = e.Name,
-                ImageURL =e.ImageURL,
+                ImageURL = e.ImageURL,
             }).ToList();
             return View(users);
         }
@@ -73,9 +74,9 @@ namespace SystemRoles.Controllers
         [HttpPost]
         public IActionResult Create(CreateUserDto userDto)
         {
-           
 
-          
+
+
 
             if (ModelState.IsValid)
             {
@@ -90,49 +91,75 @@ namespace SystemRoles.Controllers
 
                 if (userDto.image != null)
                 {
-                    user.ImageURL = UploadImage(userDto.image);
+                    user.ImageURL = UploadImage(userDto.image, userDto.Name);
                 }
 
-             
+
 
                 _db.Users.Add(user);
                 _db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction(nameof(Index));
             }
             return View(userDto);
         }
 
 
-        public IActionResult Edit(int id)
+        public IActionResult Edit(string uid)
         {
-            var user = _db.Users.Find(id);
+            var user = _db.Users.FirstOrDefault(e => e.UID == uid);
+
             if (user == null)
             {
                 return NotFound();
             }
-            return View(user);
+
+            if (user.UID == null)
+                user.UID = Guid.NewGuid().ToString();
+
+            // Mapping
+            var userDto = new UpdateUserDto
+            {
+                Id = user.Id,
+                Email = user.Email,
+                Password = user.Password,
+                Name = user.Name,
+                Username = user.Username,
+
+            };
+            return View(userDto);
         }
 
         [HttpPost]
-        public IActionResult Edit(UpdateUserDto  userDto)
+        public IActionResult Edit(UpdateUserDto userDto)
         {
             if (ModelState.IsValid)
             {
-                var user = new User
+                var user = _db.Users.Find(userDto.Id);
+
+                if (user == null)
+                    return NotFound();
+
+                user.Email = userDto.Email;
+                user.Name = userDto.Name;
+                user.Username = userDto.Username;
+
+
+
+                if (!string.IsNullOrEmpty(userDto.Password))
                 {
-                    Name = userDto.Name,
-                    Email = userDto.Email,
-                    Password = userDto.Password,
-                    Username = userDto.Username,
-                    HashPassword = BCrypt.Net.BCrypt.HashPassword(userDto.Password)
-                };
+                    user.Password = userDto.Password;
+                    user.HashPassword =
+                        BCrypt.Net.BCrypt.HashPassword(userDto.Password);
+                }
 
                 if (userDto.image != null)
                 {
-                    user.ImageURL = UploadImage(userDto.image);
+                    user.ImageURL = UploadImage(userDto.image, userDto.Name);
                 }
 
-                _db.Users.Update(user);
+
+
+                // _db.Users.Update(user);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -230,9 +257,50 @@ namespace SystemRoles.Controllers
             return RedirectToAction("Index");
         }
 
+        public IActionResult ManageFiles(int UserId)
+        {
+            var user = _db.Users.Find(UserId);
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            var files = _db.userFiles.Where(e => e.UserId == UserId).ToList();
+
+            ViewBag.Files = files;
+
+           var userFile = new UserFile();
+
+            userFile.UserId = UserId;
+
+            ViewBag.userName = user.Name;
 
 
+            return View(userFile);
+        }
 
 
+        [HttpPost]
+        public IActionResult ManageFiles(UserFile userFile, IFormFile file)
+        {
+            if(file== null)
+            {
+                return View(userFile);
+            }
+
+            userFile.FileURL = UploadImage(file, userFile.Name);
+
+
+            if (!ModelState.IsValid)
+            {
+               return View(userFile);
+            }
+
+            _db.userFiles.Add(userFile);
+            _db.SaveChanges();
+
+            return RedirectToAction("ManageFiles",new { UserId = userFile .UserId});
+
+        }
     }
 }

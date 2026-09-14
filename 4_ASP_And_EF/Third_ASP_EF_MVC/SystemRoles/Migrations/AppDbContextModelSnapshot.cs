@@ -33,7 +33,7 @@ namespace SystemRoles.Migrations
 
                     b.HasIndex("RolesId");
 
-                    b.ToTable("PermissionRole");
+                    b.ToTable("PermissionRole", (string)null);
                 });
 
             modelBuilder.Entity("RoleUser", b =>
@@ -48,7 +48,7 @@ namespace SystemRoles.Migrations
 
                     b.HasIndex("UsersId");
 
-                    b.ToTable("RoleUser");
+                    b.ToTable("RoleUser", (string)null);
                 });
 
             modelBuilder.Entity("SystemRoles.Models.Permission", b =>
@@ -65,7 +65,7 @@ namespace SystemRoles.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Permissions");
+                    b.ToTable("Permissions", (string)null);
                 });
 
             modelBuilder.Entity("SystemRoles.Models.PermissionRoles", b =>
@@ -80,7 +80,7 @@ namespace SystemRoles.Migrations
 
                     b.HasIndex("RolesId");
 
-                    b.ToTable("PermissionRoles");
+                    b.ToTable("PermissionRoles", (string)null);
                 });
 
             modelBuilder.Entity("SystemRoles.Models.Role", b =>
@@ -97,7 +97,7 @@ namespace SystemRoles.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles");
+                    b.ToTable("Roles", (string)null);
                 });
 
             modelBuilder.Entity("SystemRoles.Models.RoleUser", b =>
@@ -112,7 +112,7 @@ namespace SystemRoles.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("RoleUsers");
+                    b.ToTable("RoleUsers", (string)null);
                 });
 
             modelBuilder.Entity("SystemRoles.Models.User", b =>
@@ -141,13 +141,47 @@ namespace SystemRoles.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("UID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Username")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("Users", (string)null);
+                });
+
+            modelBuilder.Entity("SystemRoles.Models.UserFile", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("FileURL")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("userFiles", (string)null);
                 });
 
             modelBuilder.Entity("PermissionRole", b =>
@@ -214,6 +248,17 @@ namespace SystemRoles.Migrations
                         .IsRequired();
 
                     b.Navigation("Roles");
+
+                    b.Navigation("Users");
+                });
+
+            modelBuilder.Entity("SystemRoles.Models.UserFile", b =>
+                {
+                    b.HasOne("SystemRoles.Models.User", "Users")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Users");
                 });

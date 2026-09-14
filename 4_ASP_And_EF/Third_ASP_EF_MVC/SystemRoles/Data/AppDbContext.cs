@@ -20,6 +20,8 @@ namespace SystemRoles.Data
 
         public DbSet<RoleUser> RoleUsers { get; set; }
 
+        public DbSet<UserFile> userFiles { get; set; }
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
