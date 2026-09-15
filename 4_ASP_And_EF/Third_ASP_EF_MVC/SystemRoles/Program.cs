@@ -12,7 +12,7 @@ var conectionString = builder.Configuration.GetConnectionString("DefaultDatabase
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(conectionString));
 
-builder.Services.AddScoped<ICategoryRepository, NewCategoryRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 var app = builder.Build();
 

@@ -23,13 +23,19 @@ namespace SystemRoles.Controllers
             return View();
         }
 
-
+        public class CreateCategoryDto
+        {
+            public string Name { get; set; }
+        }
         [HttpPost]
-        public IActionResult Create(Category category)
+        public IActionResult Create(CreateCategoryDto category)
         {
             if (ModelState.IsValid)
             {
-                _repository.Add(category);
+                //Mapping 
+                var cate = new Category {Name = category.Name};
+
+                _repository.Add(cate);
                 _repository.Save();
                 return RedirectToAction("Index");
             }

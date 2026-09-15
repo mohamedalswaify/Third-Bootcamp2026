@@ -1,20 +1,12 @@
 ﻿using SystemRoles.Models;
+using SystemRoles.Repositories.Base;
 
 namespace SystemRoles.Repositories
 {
-    public interface ICategoryRepository
+    public interface ICategoryRepository :IRepository<Category>
     {
-        IEnumerable<Category> GetAll();
+    
 
-        Category? GetById(int id);
-
-        void Add(Category category);
-
-        void Update(Category category);
-
-        void Delete(Category category);
-
-        void Save();
 
     }
 }

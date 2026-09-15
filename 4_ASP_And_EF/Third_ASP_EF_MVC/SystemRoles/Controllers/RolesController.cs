@@ -17,7 +17,7 @@ namespace SystemRoles.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<Role> roles = _db.Roles.ToList();
+            IEnumerable<Role> roles = _db.Set<Role>().ToList();
             return View(roles);
         }
 
