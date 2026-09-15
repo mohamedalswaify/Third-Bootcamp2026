@@ -23,6 +23,9 @@ namespace SystemRoles.Data
         public DbSet<UserFile> userFiles { get; set; }
 
 
+        public DbSet<Category> Categories { get; set; }
+
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
