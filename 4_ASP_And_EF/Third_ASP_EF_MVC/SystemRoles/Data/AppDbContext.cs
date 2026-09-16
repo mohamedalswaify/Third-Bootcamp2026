@@ -27,6 +27,12 @@ namespace SystemRoles.Data
         public DbSet<Product> Products { get; set; }
 
 
+        public DbSet<Job> Jobs { get; set; }
+
+        public DbSet<Department> Departments { get; set; }
+
+        public DbSet<Employee> Employees { get; set; }
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

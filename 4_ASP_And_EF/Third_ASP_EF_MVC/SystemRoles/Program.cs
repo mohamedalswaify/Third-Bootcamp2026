@@ -14,6 +14,13 @@ options.UseSqlServer(conectionString));
 
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
+
+builder.Services.AddScoped<IJobRepository, JobRepository>();
+builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
