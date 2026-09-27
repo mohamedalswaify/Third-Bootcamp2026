@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62AC62C6-8269-48CB-8532-98511FE00B55}|ThirdWindowsFormsApp\\ThirdWindowsFormsApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62AC62C6-8269-48CB-8532-98511FE00B55}|ThirdWindowsFormsApp\\ThirdWindowsFormsApp.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\2_csharp\\thirdconsoleapp\\thirdwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62AC62C6-8269-48CB-8532-98511FE00B55}|ThirdWindowsFormsApp\\ThirdWindowsFormsApp.csproj|solutionrelative:thirdwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62AC62C6-8269-48CB-8532-98511FE00B55}|ThirdWindowsFormsApp\\ThirdWindowsFormsApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{62AC62C6-8269-48CB-8532-98511FE00B55}|ThirdWindowsFormsApp\\ThirdWindowsFormsApp.csproj|C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\thirdwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{62AC62C6-8269-48CB-8532-98511FE00B55}|ThirdWindowsFormsApp\\ThirdWindowsFormsApp.csproj|solutionrelative:thirdwindowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdconsoleapp\\oop_level3\\day6\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\thirdconsoleapp\\oop_level3\\day6\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|solutionrelative:thirdconsoleapp\\oop_level3\\day6\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdconsoleapp\\oop_level3\\day6\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\thirdconsoleapp\\oop_level3\\day6\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|solutionrelative:thirdconsoleapp\\oop_level3\\day6\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdconsoleapp\\oop_level3\\day6\\accounts\\account_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\thirdconsoleapp\\oop_level3\\day6\\accounts\\account_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|solutionrelative:thirdconsoleapp\\oop_level3\\day6\\accounts\\account_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdconsoleapp\\oop_level3\\day6\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\thirdconsoleapp\\oop_level3\\day6\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|solutionrelative:thirdconsoleapp\\oop_level3\\day6\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|c:\\users\\lenovo\\desktop\\third bootcamp\\2_csharp\\thirdconsoleapp\\thirdconsoleapp\\oop_level3\\day6\\accounts\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\thirdconsoleapp\\oop_level3\\day6\\accounts\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2639409-007E-4609-B24A-70A39CA63C9F}|ThirdConsoleApp\\ThirdConsoleApp.csproj|solutionrelative:thirdconsoleapp\\oop_level3\\day6\\accounts\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "ThirdWindowsFormsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs",
               "RelativeToolTip": "ThirdWindowsFormsApp\\Form1.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,78 +67,72 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "ThirdWindowsFormsApp\\Form1.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs [Design]",
-              "RelativeToolTip": "ThirdWindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdWindowsFormsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T18:11:48.897Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-05T18:11:48.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Dog.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Dog.cs",
               "RelativeDocumentMoniker": "ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Dog.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Dog.cs",
               "RelativeToolTip": "ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Dog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T17:18:47.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T17:18:47.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Cat.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Cat.cs",
               "RelativeDocumentMoniker": "ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Cat.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Cat.cs",
               "RelativeToolTip": "ThirdConsoleApp\\OOP_Level3\\day6\\Animals\\Cat.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T17:18:39.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T17:18:39.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\BankAccount.cs",
               "RelativeDocumentMoniker": "ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\BankAccount.cs",
               "RelativeToolTip": "ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\BankAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T17:18:08.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T17:18:08.484Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Wallet.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Wallet.cs",
               "RelativeDocumentMoniker": "ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Wallet.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Wallet.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Wallet.cs",
               "RelativeToolTip": "ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Wallet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T17:17:06.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T17:17:06.552Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Account_Test.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Account_Test.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Account_Test.cs",
               "RelativeDocumentMoniker": "ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Account_Test.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Account_Test.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\2_CSharp\\ThirdConsoleApp\\ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Account_Test.cs",
               "RelativeToolTip": "ThirdConsoleApp\\OOP_Level3\\day6\\accounts\\Account_Test.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T17:16:25.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T17:16:25.349Z"
             }
           ]
         }
