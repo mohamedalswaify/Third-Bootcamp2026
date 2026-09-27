@@ -3,22 +3,38 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using SystemRoles.Dtos.HrDtos;
 using SystemRoles.Models;
 using SystemRoles.Repositories;
+using SystemRoles.Repositories.Base;
 
 namespace SystemRoles.Controllers
 {
     public class EmployeesController : Controller
     {
 
-        private readonly IEmployeeRepository _employeeRepository;
-        private readonly IJobRepository _jobRepository;
-        private readonly IDepartmentRepository _departmentRepository;
+        //private readonly IEmployeeRepository _employeeRepository;
+        //private readonly IJobRepository _jobRepository;
+        //private readonly IDepartmentRepository _departmentRepository;
 
-        public EmployeesController(IEmployeeRepository employeeRepository, IJobRepository jobRepository, IDepartmentRepository departmentRepository)
-        { 
-            _employeeRepository = employeeRepository;
-            _jobRepository = jobRepository;
-            _departmentRepository = departmentRepository;
+        //public EmployeesController(IEmployeeRepository employeeRepository, IJobRepository jobRepository, IDepartmentRepository departmentRepository)
+        //{ 
+        //    _employeeRepository = employeeRepository;
+        //    _jobRepository = jobRepository;
+        //    _departmentRepository = departmentRepository;
+        //}
+
+
+
+
+        private readonly IUnitOfWork _unitOfWork;
+   
+
+        public EmployeesController(IUnitOfWork unitOfWork)
+        {
+            _unitOfWork = unitOfWork;
+           
         }
+
+
+
 
 
         private string UploadImage(IFormFile image, string name)
@@ -55,13 +71,13 @@ namespace SystemRoles.Controllers
 
         public IActionResult Index()
         {
-            var employees = _employeeRepository.GetEmployeesImprove();
+            var employees =  _unitOfWork.EmployeeRepo .GetEmployeesImprove();
             return View(employees);
         }
 
         public IActionResult Index2()
         {
-            var employees = _employeeRepository.GetEmployeesWithJobAndDept();
+            var employees = _unitOfWork.EmployeeRepo.GetEmployeesWithJobAndDept();
 
             var employeeDTo = employees.Select(e => new EmployeeDto
             {
@@ -84,8 +100,8 @@ namespace SystemRoles.Controllers
 
         public IActionResult Create() 
         {
-            var alljobs = _jobRepository.GetAll();
-            var allDepts= _departmentRepository.GetAll();
+            var alljobs = _unitOfWork.JobRepo.GetAll();
+            var allDepts= _unitOfWork.DepartmentRepo.GetAll();
 
             SelectList listJobs = new SelectList(alljobs, "Id", "Name");
             SelectList listJDepts = new SelectList(allDepts, "Id", "Name");
@@ -113,8 +129,9 @@ namespace SystemRoles.Controllers
                 employee.JobId = employeeDto.JobId;
                 employee.Phone =employeeDto.Phone;
 
-                _employeeRepository.Add(employee);
-                _employeeRepository.Save();
+                _unitOfWork.EmployeeRepo.Add(employee);
+
+                _unitOfWork.Save();
                 return RedirectToAction("Index");
                
             }

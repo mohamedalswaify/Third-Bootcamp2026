@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\Employees\Mohamed Alswaify_210e6025-2348-4d30-910b-c866ccd21d4e.jpeg
 wwwroot\images\Employees\Mohamed Alswaify_707a1503-7fc5-4e12-aeb8-bd1f9f21e936.jpeg
 wwwroot\images\Employees\Mohamed Alswaify_9cca93d6-7dc6-43a9-b4fb-074501085386.png
 wwwroot\images\Users\24b6ed76-abc5-4e9e-85d4-8dd753743bb0.png
