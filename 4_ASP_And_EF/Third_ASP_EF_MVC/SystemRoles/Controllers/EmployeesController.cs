@@ -4,108 +4,37 @@ using SystemRoles.Dtos.HrDtos;
 using SystemRoles.Models;
 using SystemRoles.Repositories;
 using SystemRoles.Repositories.Base;
+using SystemRoles.Services.Base;
 
 namespace SystemRoles.Controllers
 {
     public class EmployeesController : Controller
     {
 
-        //private readonly IEmployeeRepository _employeeRepository;
-        //private readonly IJobRepository _jobRepository;
-        //private readonly IDepartmentRepository _departmentRepository;
+        private readonly IEmployeeService _employeeService ;
 
-        //public EmployeesController(IEmployeeRepository employeeRepository, IJobRepository jobRepository, IDepartmentRepository departmentRepository)
-        //{ 
-        //    _employeeRepository = employeeRepository;
-        //    _jobRepository = jobRepository;
-        //    _departmentRepository = departmentRepository;
-        //}
-
-
-
-
-        private readonly IUnitOfWork _unitOfWork;
-   
-
-        public EmployeesController(IUnitOfWork unitOfWork)
+        public EmployeesController(IEmployeeService employeeService)
         {
-            _unitOfWork = unitOfWork;
-           
+            _employeeService = employeeService;
+
         }
-
-
-
-
-
-        private string UploadImage(IFormFile image, string name)
-        {
-            string fileName = name + "_" + Guid.NewGuid().ToString()
-                              + Path.GetExtension(image.FileName);
-
-            string folderPath = Path.Combine(
-                Directory.GetCurrentDirectory(),
-                "wwwroot",
-                "images",
-                "Employees"
-            );
-
-            // Create folder if it doesn't exist
-            Directory.CreateDirectory(folderPath);
-
-            string filePath = Path.Combine(
-                folderPath,
-                fileName
-            );
-
-            using (var stream = new FileStream(filePath, FileMode.Create))
-            {
-                image.CopyTo(stream);
-            }
-
-            return "/images/Employees/" + fileName;
-        }
-
-
-
-
-
         public IActionResult Index()
         {
-            var employees =  _unitOfWork.EmployeeRepo .GetEmployeesImprove();
+            var employees = _employeeService.GetEmployeesImprove();
             return View(employees);
         }
 
         public IActionResult Index2()
         {
-            var employees = _unitOfWork.EmployeeRepo.GetEmployeesWithJobAndDept();
-
-            var employeeDTo = employees.Select(e => new EmployeeDto
-            {
-                Id = e.Id,
-                Name = e.Name,
-                UID = e.UID,
-                ImageURL = e.ImageURL,
-                JobName = e.Jobs.Name,
-                DepartmentName = e.Departments.Name
-
-            });
-
-
+            var employees = _employeeService.GetEmployeesWithJobAndDept();
             return View(employees);
-
-
         }
-
-
-
         public IActionResult Create() 
         {
-            var alljobs = _unitOfWork.JobRepo.GetAll();
-            var allDepts= _unitOfWork.DepartmentRepo.GetAll();
-
+            var alljobs =_employeeService.GetAllJobs();
+            var allDepts=  _employeeService.GetAllDepts();
             SelectList listJobs = new SelectList(alljobs, "Id", "Name");
             SelectList listJDepts = new SelectList(allDepts, "Id", "Name");
-
             ViewBag.Jobs = listJobs;
             ViewBag.Departments =listJDepts;
 
@@ -117,21 +46,8 @@ namespace SystemRoles.Controllers
         {
             if (ModelState.IsValid)
             {
-                var employee = new Employee();
+               _employeeService.CreateEmployee(employeeDto);
 
-                if(employeeDto.Image != null)
-                {
-                    employee.ImageURL = UploadImage(employeeDto.Image, employeeDto.Name);
-                }
-                employee.Name =employeeDto.Name;
-                employee.Email = employeeDto.Email;
-                employee.DepartmentId = employeeDto.DepartmentId;
-                employee.JobId = employeeDto.JobId;
-                employee.Phone =employeeDto.Phone;
-
-                _unitOfWork.EmployeeRepo.Add(employee);
-
-                _unitOfWork.Save();
                 return RedirectToAction("Index");
                
             }

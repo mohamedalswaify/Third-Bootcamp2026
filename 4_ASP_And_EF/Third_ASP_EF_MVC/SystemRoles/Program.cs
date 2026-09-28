@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using SystemRoles.Data;
 using SystemRoles.Repositories;
 using SystemRoles.Repositories.Base;
+using SystemRoles.Services;
+using SystemRoles.Services.Base;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +21,8 @@ builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 
 
 
