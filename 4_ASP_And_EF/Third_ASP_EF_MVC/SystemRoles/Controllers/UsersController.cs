@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SystemRoles.Data;
-using SystemRoles.Dtos;
-using SystemRoles.Dtos.UsersDtos;
-using SystemRoles.Models;
+using Third_ASP_EF_MVC.Application.Dtos;
+using Third_ASP_EF_MVC.Application.Dtos.UsersDtos;
+using Third_ASP_EF_MVC.Domain.Models;
+using Third_ASP_EF_MVC.Infrastructure.Data;
 
 namespace SystemRoles.Controllers
 {

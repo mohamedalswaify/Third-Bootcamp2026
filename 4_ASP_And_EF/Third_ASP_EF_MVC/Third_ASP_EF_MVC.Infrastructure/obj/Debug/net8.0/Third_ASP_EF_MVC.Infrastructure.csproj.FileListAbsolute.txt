@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Third_ASP_EF_MVC.Domain.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Third_ASP_EF_MVC.Domain.pdb
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.sourcelink.json
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_AS.78322CE7.Up2Date
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\refint\Third_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\Third_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\ref\Third_ASP_EF_MVC.Infrastructure.dll

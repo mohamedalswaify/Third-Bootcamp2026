@@ -16,4 +16,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Third_ASP_EF_MVC.Application\Third_ASP_EF_MVC.Application.csproj" />
+    <ProjectReference Include="..\Third_ASP_EF_MVC.Domain\Third_ASP_EF_MVC.Domain.csproj" />
+    <ProjectReference Include="..\Third_ASP_EF_MVC.Infrastructure\Third_ASP_EF_MVC.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

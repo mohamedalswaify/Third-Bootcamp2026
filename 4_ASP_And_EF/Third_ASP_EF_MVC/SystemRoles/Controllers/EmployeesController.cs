@@ -1,10 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using SystemRoles.Dtos.HrDtos;
-using SystemRoles.Models;
-using SystemRoles.Repositories;
-using SystemRoles.Repositories.Base;
-using SystemRoles.Services.Base;
+using Third_ASP_EF_MVC.Application.Dtos.HrDtos;
+using Third_ASP_EF_MVC.Application.Services.Base;
 
 namespace SystemRoles.Controllers
 {

@@ -3,6 +3,8 @@ wwwroot\favicon.ico
 wwwroot\images\Employees\Mohamed Alswaify_210e6025-2348-4d30-910b-c866ccd21d4e.jpeg
 wwwroot\images\Employees\Mohamed Alswaify_707a1503-7fc5-4e12-aeb8-bd1f9f21e936.jpeg
 wwwroot\images\Employees\Mohamed Alswaify_9cca93d6-7dc6-43a9-b4fb-074501085386.png
+wwwroot\images\Employees\Mohamed_2faaeaf8-72fb-4a2a-aa15-521a01bc8caa.png
+wwwroot\images\Employees\Mohamed_b00d0260-4f3e-477c-a596-3d0d25e79ea7.png
 wwwroot\images\Users\24b6ed76-abc5-4e9e-85d4-8dd753743bb0.png
 wwwroot\images\Users\45266c9a-9fe1-48a4-8dea-3fdd935ceafa.png
 wwwroot\images\Users\58a33b84-cacb-4341-880e-9017eb61a928.png
@@ -15,11 +17,19 @@ wwwroot\images\Users\Admin_a0ed69fb-177f-4374-8241-da339b4b1b32.png
 wwwroot\images\Users\d0ddcd54-9985-4cb1-b213-a84c258b5aba.png
 wwwroot\images\Users\d4197798-ee8f-40c6-a04a-b76859697adf.png
 wwwroot\images\Users\e9146944-711b-4398-8f96-0a5c64c14063.exe
-wwwroot\images\Users\ID Number2_98187415-9eee-4cd1-8317-e1e3550fd3f9.jpeg
 wwwroot\images\Users\Id Number_a1f8bba2-c0e1-4325-9f65-e9e670287430.jpeg
 wwwroot\images\Users\ID Number_c3a60162-a8f0-4f7c-a276-ce5a4612794f.jpeg
+wwwroot\images\Users\ID Number2_98187415-9eee-4cd1-8317-e1e3550fd3f9.jpeg
 wwwroot\images\Users\Mohamed_3f470ab6-c02d-413a-af9f-e8d8487703be.png
 wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -44,14 +54,6 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -65,18 +67,18 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
-wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
-wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
 wwwroot\lib\jquery-validation\dist\additional-methods.js
 wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 wwwroot\lib\jquery-validation\LICENSE.md
-wwwroot\lib\jquery\dist\jquery.js
-wwwroot\lib\jquery\dist\jquery.min.js
-wwwroot\lib\jquery\dist\jquery.min.map
-wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\template\401.html
 wwwroot\template\404.html
 wwwroot\template\500.html

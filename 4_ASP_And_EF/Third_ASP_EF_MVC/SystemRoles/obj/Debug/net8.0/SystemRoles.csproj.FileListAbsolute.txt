@@ -1,3 +1,13 @@
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.sourcelink.json
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\appsettings.json
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\SystemRoles.staticwebassets.runtime.json
@@ -9,6 +19,7 @@ C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\SystemRoles.pdb
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\BCrypt.Net-Core.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Humanizer.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -118,19 +129,16 @@ C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.AssemblyInfoInputs.cache
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.AssemblyInfo.cs
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.RazorAssemblyInfo.cache
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.RazorAssemblyInfo.cs
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.sourcelink.json
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Third_ASP_EF_MVC.Application.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Third_ASP_EF_MVC.Domain.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Third_ASP_EF_MVC.Application.pdb
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Third_ASP_EF_MVC.Domain.pdb
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\Third_ASP_EF_MVC.Infrastructure.pdb
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\scopedcss\bundle\SystemRoles.styles.css
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\scopedcss\projectbundle\SystemRoles.bundle.scp.css
@@ -145,5 +153,3 @@ C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.pdb
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\SystemRoles.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\ref\SystemRoles.dll
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\bin\Debug\net8.0\BCrypt.Net-Core.dll
-C:\Users\LENOVO\Desktop\Third_Bootcamp\4_ASP_And_EF\Third_ASP_EF_MVC\SystemRoles\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css

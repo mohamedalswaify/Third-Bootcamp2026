@@ -3,20 +3,196 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260914182608_adduserfilecolumn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260914182608_adduserfilecolumn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260916170441_addhrsystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260916170441_addhrsystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260914181750_adduserfile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260914181750_adduserfile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260914171535_adduiduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260914171535_adduiduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260913165107_addimageurl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260913165107_addimageurl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260908172805_updateuserrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260908172805_updateuserrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260907181551_intaildb2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260907181551_intaildb2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260907165210_intaildb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260907165210_intaildb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260915170111_addcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260915170111_addcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260916170441_addhrsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260916170441_addhrsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260915170111_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260915170111_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260914182608_adduserfilecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260914182608_adduserfilecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260914181750_adduserfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260914181750_adduserfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260914171535_adduiduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260914171535_adduiduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260913165107_addimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260913165107_addimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260908172805_updateuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260908172805_updateuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260907181551_intaildb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260907181551_intaildb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\migrations\\20260907165210_intaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\migrations\\20260907165210_intaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\third_asp_ef_mvc.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\third_asp_ef_mvc.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A00B99B-480F-4B28-BDDB-A6FA31049927}|Third_ASP_EF_MVC.Application\\Third_ASP_EF_MVC.Application.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00B99B-480F-4B28-BDDB-A6FA31049927}|Third_ASP_EF_MVC.Application\\Third_ASP_EF_MVC.Application.csproj|solutionrelative:third_asp_ef_mvc.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D271D8-15E7-4681-ACE6-A197DBE95355}|Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj|solutionrelative:third_asp_ef_mvc.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\users\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\users\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\users\\managefiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\users\\managefiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\roles\\assignpermissions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\roles\\assignpermissions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\permissions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\permissions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\services\\base\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\services\\base\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\systemroles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0644A3C4-EFA7-4588-9951-78A988D68FF0}|SystemRoles\\SystemRoles.csproj|solutionrelative:systemroles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A00B99B-480F-4B28-BDDB-A6FA31049927}|Third_ASP_EF_MVC.Application\\Third_ASP_EF_MVC.Application.csproj|c:\\users\\lenovo\\desktop\\third_bootcamp\\4_asp_and_ef\\third_asp_ef_mvc\\third_asp_ef_mvc.application\\services\\base\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A00B99B-480F-4B28-BDDB-A6FA31049927}|Third_ASP_EF_MVC.Application\\Third_ASP_EF_MVC.Application.csproj|solutionrelative:third_asp_ef_mvc.application\\services\\base\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +210,626 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Program.cs",
               "RelativeDocumentMoniker": "SystemRoles\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Program.cs",
               "RelativeToolTip": "SystemRoles\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T17:22:11.916Z",
+              "WhenOpened": "2026-09-28T18:59:41.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "SystemRoles\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "SystemRoles\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20260914171535_addUIDUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T17:17:20.698Z",
+              "WhenOpened": "2026-09-28T18:57:44.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260914181750_addUserFile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:58:29.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Services\\Base\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "SystemRoles\\Services\\Base\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Services\\Base\\IEmployeeService.cs",
-              "RelativeToolTip": "SystemRoles\\Services\\Base\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Title": "20260916170441_addHRSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T17:15:46.444Z",
+              "WhenOpened": "2026-09-28T18:58:01.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "20260914182608_addUserFileColumn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:57:50.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260913165107_addImageURL.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:57:37.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260908172805_updateUserRole.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:57:20.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260907181551_intailDb2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:57:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260907165210_intailDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:56:54.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260915170111_AddCategory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.Designer.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.Designer.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:57:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:56:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260916170441_addHRSystem.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260916170441_addHRSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:56:08.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260915170111_AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260915170111_AddCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:56:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260914181750_addUserFile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914181750_addUserFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:55.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260914182608_addUserFileColumn.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914182608_addUserFileColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:54.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260914171535_addUIDUser.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260914171535_addUIDUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:51.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260913165107_addImageURL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260913165107_addImageURL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:48.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260908172805_updateUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260908172805_updateUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260907181551_intailDb2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907181551_intailDb2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Third_ASP_EF_MVC.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Third_ASP_EF_MVC.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T18:55:09.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260907165210_intailDb.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Migrations\\20260907165210_intailDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:55:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:51:07.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:51:05.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:50:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:50:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:49:27.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAASwGMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:41:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:49:26.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Users\\ManageRoles.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\ManageRoles.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Users\\ManageRoles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:49:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageFiles.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\ManageFiles.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Users\\ManageFiles.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\ManageFiles.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Users\\ManageFiles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:49:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:49:01.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:47.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:39.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssignPermissions.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Roles\\AssignPermissions.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Roles\\AssignPermissions.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Roles\\AssignPermissions.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Roles\\AssignPermissions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Permissions\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Permissions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Permissions\\Index.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Permissions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:22.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "SystemRoles\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "SystemRoles\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T18:48:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "SystemRoles\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "SystemRoles\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:47:05.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "SystemRoles\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "SystemRoles\\Controllers\\PermissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:46:54.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SystemRoles\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SystemRoles\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:46:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "SystemRoles\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "SystemRoles\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T17:51:47.836Z",
+              "WhenOpened": "2026-09-28T18:46:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SystemRoles\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SystemRoles\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:46:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "SystemRoles\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\SystemRoles\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "SystemRoles\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:43:21.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Application\\Services\\Base\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Third_ASP_EF_MVC.Application\\Services\\Base\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Third_Bootcamp\\4_ASP_And_EF\\Third_ASP_EF_MVC\\Third_ASP_EF_MVC.Application\\Services\\Base\\IEmployeeService.cs",
+              "RelativeToolTip": "Third_ASP_EF_MVC.Application\\Services\\Base\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:41:38.481Z",
               "EditorCaption": ""
             }
           ]

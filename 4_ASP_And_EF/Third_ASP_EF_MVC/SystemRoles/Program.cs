@@ -1,9 +1,13 @@
 using Microsoft.EntityFrameworkCore;
-using SystemRoles.Data;
+
 using SystemRoles.Repositories;
-using SystemRoles.Repositories.Base;
-using SystemRoles.Services;
-using SystemRoles.Services.Base;
+using Third_ASP_EF_MVC.Application.Services;
+using Third_ASP_EF_MVC.Application.Services.Base;
+using Third_ASP_EF_MVC.Infrastructure.Data;
+using Third_ASP_EF_MVC.Infrastructure.Repositories;
+using Third_ASP_EF_MVC.Infrastructure.Repositories.Base;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 

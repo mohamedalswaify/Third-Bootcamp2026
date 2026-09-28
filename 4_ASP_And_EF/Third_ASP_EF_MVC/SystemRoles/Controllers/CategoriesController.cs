@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SystemRoles.Models;
 using SystemRoles.Repositories;
+using Third_ASP_EF_MVC.Domain.Models;
+using Third_ASP_EF_MVC.Infrastructure.Repositories;
 
 namespace SystemRoles.Controllers
 {
