@@ -26,6 +26,16 @@ namespace Third_ASP_EF_MVC.Controllers
             return View(names);
         }
 
+        [HttpGet]
+        public IActionResult ApiIndex()
+        {
+            //Entity FrameWork Approach
+
+            IEnumerable<Employee> names = _db.Employees.ToList();
+
+            return Ok(names);
+        }
+
 
         public IActionResult Create()
         {
